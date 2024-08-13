@@ -22,10 +22,6 @@
   -webkit-text-size-adjust: 100%;
 }
 
-.task {
-  margin-bottom: 150px;
-}
-
 .timer {
   display: flex;
   gap: 24px;
